@@ -4,4 +4,5 @@ public class TestJava {
 
 	private  String name;
 	private String author;
+	private String password;
 }
